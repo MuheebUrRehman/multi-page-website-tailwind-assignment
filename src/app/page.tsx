@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <section>
-        <h1>Home</h1>
+        <h1 className="font-semibold text-2xl">Home</h1>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur
           blanditiis quibusdam eveniet ex nulla nemo asperiores, explicabo

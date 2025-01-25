@@ -3,7 +3,7 @@ import React from "react";
 const Contact = () => {
   return (
     <section>
-      <h2>Contact Us</h2>
+      <h2 className="font-semibold text-2xl">Contact Us</h2>
       <p>
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
         ullam rem iste quaerat quasi suscipit eius! Enim veniam dignissimos
